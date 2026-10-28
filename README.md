@@ -173,6 +173,10 @@ FilmInvert Native 是一款面向 Windows 的胶片数字化修片工具，适�
 
 源码与发行包提供应用文件和依赖校验清单。第三方组件及许可说明见 [THIRD_PARTY](THIRD_PARTY/)，包括 Python、NumPy、Pillow、rawpy / LibRaw、Qt / PySide6 等。构建与重新分发时请保留相应许可与 notices。
 
+## 项目贡献者
+
+- [raaay666-hash](https://github.com/raaay666-hash)：共同参与项目开发。
+
 ## 问题反馈
 
 提交 Issue 时，请尽量附上软件版本、Windows 版本、输入格式 / 相机型号、复现步骤、预期结果和实际结果。启动问题可补充「启动诊断.cmd」生成的报告；提交前请检查并移除个人路径等隐私信息。需要提供原片时，优先使用能够复现问题的合成或可公开样例。
