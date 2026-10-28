@@ -175,6 +175,7 @@ FilmInvert Native 是一款面向 Windows 的胶片数字化修片工具，适�
 
 ## 项目贡献者
 
+- [vakiw](https://github.com/vakiw)
 - [raaay666-hash](https://github.com/raaay666-hash)：共同参与项目开发。
 
 ## 问题反馈
